@@ -6,8 +6,8 @@
 
 <h4 align="center">
   <a href="https://github.com/MehdiAmara1"><b>GitHub</b></a> •
-  <a href="https://twitter.com/MehdiAmara1"><b>Twitter</b></a> •
-  <a href="mailto:amara.mehdi@example.com"><b>Email</b></a> •
+  <a href="https://x.com/amaramehdi8"><b>Twitter</b></a> •
+  <a href="mailto:mehdi.amara@tech.univ-bejaia.dz"><b>Email</b></a> •
   <a href="https://linkedin.com/in/amara-mehdi"><b>LinkedIn</b></a>
 </h4>
 
@@ -17,7 +17,7 @@
 
 - **Full Name**: Amara Mehdi  
 - **Age**: 18  
-- **Birthplace**: Cupertino, Algeria  
+- **Birthplace**: Cupertino
 - **Country**: Algeria  
 
 ---
@@ -34,20 +34,20 @@
 ### You.com (Remote)  
 *November 2022 - Present*  
 - **AI Development Intern** (Nov 2022 - Jun 2023)  
-- **Machine Learning Engineer** (Jul 2023 - Present)  
-- **Data Analyst** (Jan 2024 - Present)  
+- **Machine Learning Assistant** (Jul 2023 - Present)  
+- **Data Analyst Junior** (Jan 2024 - Present)  
 
 ### Character.ai (Remote)  
 *January 2024 - June 2024*  
 - **AI Chatbot Developer** (Jan 2024 - Mar 2024)  
 - **Backend Developer** (Apr 2024 - May 2024)  
-- **Performance Engineer** (May 2024 - Jun 2024)  
+- **Performance Checker** (May 2024 - Jun 2024)  
 
 ### Perplexity (Remote)  
 *July 2024 - Present*  
 - **AI Research Assistant** (Jul 2024 - Sep 2024)  
 - **Frontend Developer** (Oct 2024 - Present)  
-- **Algorithm Engineer** (Nov 2024 - Present)  
+- **Algorithm DEV** (Nov 2024 - Present)  
 
 ---
 
@@ -119,20 +119,4 @@
 
 ---
 
-## 📬 Connect With Me
-
-<a href="https://twitter.com/MehdiAmara1" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://github.com/MehdiAmara1" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:amara.mehdi@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
 ---
-
-## ✨ Fun Fact
-
-- *Started coding at 12, earned Harvard certificate at 13*
